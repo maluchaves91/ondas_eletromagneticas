@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aclonica&display=swap');
+
+body {
+    background-color: black;
+}
+
+.titulo-principal {
+    font-family: "VT323", monospace;
+    color: antiquewhite;
+    text-align: center;
+}
+
+.paragrafo-explicativo {
+    font-family: "Aclonica", sans-serif;
+    color: azure;
+    text-align: justify;
+}
+
+.itens-explicativo {
+    font-family: "Aclonica", sans-serif;
+    color: azure;
+}
